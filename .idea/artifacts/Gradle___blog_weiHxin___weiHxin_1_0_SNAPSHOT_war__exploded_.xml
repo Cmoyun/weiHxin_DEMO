@@ -1,0 +1,39 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : blog:weiHxin : weiHxin-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/out/artifacts/weiHxin/exploded/weiHxin-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="weiHxin/web/Web Gradle : weiHxin-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="weiHxin" />
+          <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="Gradle: mysql-connector-java-5.1.34" module-name="weiHxin" />
+          <element id="library" level="module" name="Gradle: druid-1.0.13" module-name="weiHxin" />
+          <element id="library" level="module" name="Gradle: nutz-1.b.52" module-name="weiHxin" />
+          <element id="library" level="project" name="Gradle: me.chanjar:weixin-java-mp:1.1.5" />
+          <element id="library" level="project" name="Gradle: me.chanjar:weixin-java-common:1.1.5" />
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.10" />
+          <element id="library" level="project" name="Gradle: org.apache.httpcomponents:fluent-hc:4.3.5" />
+          <element id="library" level="project" name="Gradle: org.apache.httpcomponents:httpmime:4.3.5" />
+          <element id="library" level="project" name="Gradle: com.google.code.gson:gson:2.2.2" />
+          <element id="library" level="project" name="Gradle: commons-codec:commons-codec:1.9" />
+          <element id="library" level="project" name="Gradle: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Gradle: com.thoughtworks.xstream:xstream:1.4.7" />
+          <element id="library" level="project" name="Gradle: org.apache.httpcomponents:httpclient:4.3.5" />
+          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.1.3" />
+          <element id="library" level="project" name="Gradle: xmlpull:xmlpull:1.1.3.1" />
+          <element id="library" level="project" name="Gradle: xpp3:xpp3_min:1.1.4c" />
+          <element id="library" level="project" name="Gradle: org.apache.httpcomponents:httpcore:4.3.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/weiHxin/exploded/weiHxin-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

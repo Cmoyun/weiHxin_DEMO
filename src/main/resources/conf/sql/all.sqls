@@ -1,0 +1,2 @@
+/* lsArticleName */
+select title from t_article

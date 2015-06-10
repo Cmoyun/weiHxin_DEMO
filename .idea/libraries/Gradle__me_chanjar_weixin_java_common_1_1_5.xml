@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: me.chanjar:weixin-java-common:1.1.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.chanjar/weixin-java-common/1.1.5/65d3465ebcf12e0590b28a975904c73fa629d917/weixin-java-common-1.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.chanjar/weixin-java-common/1.1.5/57cd19a43599f2e81f832fd4a7ae81936c4a0e49/weixin-java-common-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/druid-1.0.13.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/mysql-connector-java-5.1.34.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/nutz-1.b.52.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sinaapp/moyun/weixin/MainModule.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sinaapp/moyun/weixin/module/LinkModule.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/static" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
